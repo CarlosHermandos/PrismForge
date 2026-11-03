@@ -1,0 +1,114 @@
+index	name	category	tags	author	description	macro1	macro2	macro3	macro4
+0	Init	Init	keys,pluck,original	Prism Forge	Neutral morph / C2-C6	Brightness	Table morph	Resonance	Softness
+1	Foundation	Bass	bass,low,original	Prism Forge	Round bass / C1-C3	Brightness	Table morph	Resonance	Softness
+2	Copper Pluck	Keys & Plucks	keys,pluck,original	Prism Forge	Resonant pluck / C3-C6	Brightness	Table morph	Resonance	Softness
+3	Glass Thread	Keys & Plucks	keys,pluck,original	Prism Forge	Triangle keys / C3-C7	Brightness	Table morph	Resonance	Softness
+4	Night Alloy	Pads	pad,sustained,original	Prism Forge	Dark slow pad / C2-C5	Brightness	Table morph	Resonance	Softness
+5	Signal Flare	Leads	lead,expressive,original	Prism Forge	Square lead / C3-C6	Brightness	Table morph	Resonance	Softness
+6	Soft Circuit	Keys & Plucks	keys,pluck,original	Prism Forge	Mellow keys / C2-C6	Brightness	Table morph	Resonance	Softness
+7	Resonant Wire	Bass	bass,low,original	Prism Forge	Resonant saw / C1-C3	Brightness	Table morph	Resonance	Softness
+8	Horizon	Pads	pad,sustained,original	Prism Forge	Harmonic swell / C2-C5	Brightness	Table morph	Resonance	Softness
+9	Twin Current	Bass	bass,low,original	Prism Forge	Detuned low saw / C1-C3	Brightness	Table morph	Resonance	Softness
+10	Arc Seven	Leads	lead,expressive,original	Prism Forge	Stereo unison / C3-C6	Brightness	Table morph	Resonance	Softness
+11	Silver Dust	Pads	pad,sustained,original	Prism Forge	Air and slow motion / C2-C5	Brightness	Table morph	Resonance	Softness
+12	Hollow Pulse	Bass	bass,low,original	Prism Forge	Pulse warp / C1-C3	Brightness	Table morph	Resonance	Softness
+13	Phase Lantern	Leads	lead,expressive,original	Prism Forge	Phase modulation / C3-C6	Brightness	Table morph	Resonance	Softness
+14	Velvet Steps	Keys & Plucks	keys,pluck,original	Prism Forge	Triangle with echo / C2-C6	Brightness	Table morph	Resonance	Softness
+15	Orbital	Pads	pad,sustained,original	Prism Forge	LFO filter movement / C2-C5	Brightness	Table morph	Resonance	Softness
+16	Ion Bell	Keys & Plucks	keys,pluck,original	Prism Forge	Ring-modulated bell / C3-C6	Brightness	Table morph	Resonance	Softness
+17	Carbon	Bass	bass,low,original	Prism Forge	Driven lowpass / C1-C3	Brightness	Table morph	Resonance	Softness
+18	Wide Awake	Leads	lead,expressive,original	Prism Forge	Triple oscillator / C3-C6	Brightness	Table morph	Resonance	Softness
+19	Rain Circuit	SFX	texture,fx,original	Prism Forge	Filtered noise / C2-C5	Brightness	Table morph	Resonance	Softness
+20	Slow Bloom	Pads	pad,sustained,original	Prism Forge	Four-envelope movement / C2-C5	Brightness	Table morph	Resonance	Softness
+21	Copper Hall	Keys & Plucks	keys,pluck,original	Prism Forge	Pluck in reverb / C3-C6	Brightness	Table morph	Resonance	Softness
+22	Ribbon	Leads	lead,expressive,original	Prism Forge	Mono legato glide / C3-C6	Brightness	Table morph	Resonance	Softness
+23	Cold Mirror	Pads	hybrid,experimental,original	Prism Forge	Parallel notch and bandpass / C2-C5	Brightness	Table morph	Resonance	Softness
+24	Pulse Relay	Leads	hybrid,experimental,original	Prism Forge	LFO driven timbre / C2-C5	Brightness	Table morph	Resonance	Softness
+25	Deep Anchor	Bass	bass,low,original	Prism Forge	Original bass / C1-C3	Brightness	Table morph	Resonance	Softness
+26	Reese Vector	Bass	bass,low,original	Prism Forge	Original bass / C1-C3	Brightness	Table morph	Resonance	Softness
+27	Acid Etch	Bass	bass,low,original	Prism Forge	Original bass / C1-C3	Brightness	Table morph	Resonance	Softness
+28	FM Ember	Bass	bass,low,original	Prism Forge	Original bass / C1-C3	Brightness	Table morph	Resonance	Softness
+29	Gravel Growl	Bass	bass,low,original	Prism Forge	Original bass / C1-C3	Brightness	Table morph	Resonance	Softness
+30	Short Circuit	Bass	bass,low,original	Prism Forge	Original bass / C1-C3	Brightness	Table morph	Resonance	Softness
+31	Iron Floor	Bass	bass,low,original	Prism Forge	Original bass / C1-C3	Brightness	Table morph	Resonance	Softness
+32	Mono Prism	Leads	lead,expressive,original	Prism Forge	Original expressive lead / C3-C6	Brightness	Table morph	Resonance	Softness
+33	Solar Stack	Leads	lead,expressive,original	Prism Forge	Original expressive lead / C3-C6	Brightness	Table morph	Resonance	Softness
+34	Hard Horizon	Leads	lead,expressive,original	Prism Forge	Original expressive lead / C3-C6	Brightness	Table morph	Resonance	Softness
+35	Pressure Line	Leads	lead,expressive,original	Prism Forge	Original expressive lead / C3-C6	Brightness	Table morph	Resonance	Softness
+36	Clean Vector	Leads	lead,expressive,original	Prism Forge	Original expressive lead / C3-C6	Brightness	Table morph	Resonance	Softness
+37	Warm Lattice	Pads	pad,sustained,original	Prism Forge	Original pad texture / C2-C5	Brightness	Table morph	Resonance	Softness
+38	Evolving Glass	Pads	pad,sustained,original	Prism Forge	Original pad texture / C2-C5	Brightness	Table morph	Resonance	Softness
+39	Air Columns	Pads	pad,sustained,original	Prism Forge	Original pad texture / C2-C5	Brightness	Table morph	Resonance	Softness
+40	Dark Chamber	Pads	pad,sustained,original	Prism Forge	Original pad texture / C2-C5	Brightness	Table morph	Resonance	Softness
+41	Grain Aurora	Pads	pad,sustained,original	Prism Forge	Original pad texture / C2-C5	Brightness	Pitch bend	Resonance	Softness
+42	Mallet Photon	Keys & Plucks	keys,pluck,original	Prism Forge	Generated sample mallet / C3-C6	Brightness	Pitch bend	Resonance	Softness
+43	Electric Fold	Keys & Plucks	keys,pluck,original	Prism Forge	Key-zoned original electric tone / C2-C6	Brightness	Pitch bend	Resonance	Softness
+44	Clockwork	Arps & Sequences	pattern,sync,original	Prism Forge	Host-synced pattern / hold C2-C5	Brightness	Table morph	Resonance	Softness
+45	Octave Rails	Arps & Sequences	pattern,sync,original	Prism Forge	Host-synced pattern / hold C2-C5	Brightness	Table morph	Resonance	Softness
+46	Swing Alloy	Arps & Sequences	pattern,sync,original	Prism Forge	Host-synced pattern / hold C2-C5	Brightness	Table morph	Resonance	Softness
+47	Ascending Grid	Arps & Sequences	pattern,sync,original	Prism Forge	Host-synced pattern / hold C2-C5	Brightness	Table morph	Resonance	Softness
+48	Probability Lace	Arps & Sequences	pattern,sync,original	Prism Forge	Host-synced pattern / hold C2-C5	Brightness	Table morph	Resonance	Softness
+49	Minor Current	Arps & Sequences	pattern,sync,original	Prism Forge	Host-synced pattern / hold C2-C5	Brightness	Table morph	Resonance	Softness
+50	Latch Relay	Arps & Sequences	pattern,sync,original	Prism Forge	Host-synced pattern / hold C2-C5	Brightness	Table morph	Resonance	Softness
+51	Pulse Geometry	Arps & Sequences	pattern,sync,original	Prism Forge	Host-synced pattern / hold C2-C5	Brightness	Table morph	Resonance	Softness
+52	Lift Engine	SFX	texture,fx,original	Prism Forge	Original effect / C2-C5	Brightness	Table morph	Resonance	Softness
+53	Falling Debris	SFX	texture,fx,original	Prism Forge	Original effect / C2-C5	Brightness	Table morph	Resonance	Softness
+54	Subspace Drone	SFX	texture,fx,original	Prism Forge	Original effect / C2-C5	Brightness	Table morph	Resonance	Softness
+55	Dust Motion	SFX	texture,fx,original	Prism Forge	Original effect / C2-C5	Brightness	Table morph	Resonance	Softness
+56	Spectral Mist	SFX	texture,fx,original	Prism Forge	Original effect / C2-C5	Brightness	Pitch bend	Resonance	Softness
+57	Grain Impact	SFX	texture,fx,original	Prism Forge	Original effect / C2-C5	Brightness	Pitch bend	Resonance	Softness
+58	Metal Passage	SFX	texture,fx,original	Prism Forge	Original effect / C2-C5	Brightness	Table morph	Resonance	Softness
+59	Spectral Loom	Pads	hybrid,experimental,original	Prism Forge	Original engine study / C2-C5	Brightness	Pitch bend	Resonance	Softness
+60	Grain Parallax	Pads	hybrid,experimental,original	Prism Forge	Original engine study / C2-C5	Brightness	Pitch bend	Resonance	Softness
+61	Sample Prism	Keys & Plucks	hybrid,experimental,original	Prism Forge	Original engine study / C2-C5	Brightness	Pitch bend	Resonance	Softness
+62	Velocity Atlas	Keys & Plucks	hybrid,experimental,original	Prism Forge	Original engine study / C2-C5	Brightness	Pitch bend	Resonance	Softness
+63	Split Band	Bass	hybrid,experimental,original	Prism Forge	Original engine study / C2-C5	Brightness	Table morph	Resonance	Softness
+64	Phase Sculpture	SFX	hybrid,experimental,original	Prism Forge	Original engine study / C2-C5	Brightness	Table morph	Resonance	Softness
+65	EDM Arena Brass	Brass	edm,brass,original	Prism Forge	Wide saw brass stab / C3-C5	Brightness	Table morph	Resonance	Softness
+66	EDM Chrome Horns	Brass	edm,brass,original	Prism Forge	Bright octave horn stack / C3-C5	Brightness	Table morph	Resonance	Softness
+67	EDM Future Horn	Brass	edm,brass,original	Prism Forge	Short future-bass horn / C3-C5	Brightness	Table morph	Resonance	Softness
+68	EDM Muted Copper	Brass	edm,brass,original	Prism Forge	Soft muted synth brass / C3-C6	Brightness	Table morph	Resonance	Softness
+69	EDM Warehouse Stab	Brass	edm,brass,original	Prism Forge	Driven compact brass hit / C2-C5	Brightness	Table morph	Resonance	Softness
+70	EDM Sunset Section	Brass	edm,brass,original	Prism Forge	Warm sustained brass ensemble / C3-C5	Brightness	Table morph	Resonance	Softness
+71	EDM Pulse Trumpets	Brass	edm,brass,original	Prism Forge	Narrow pulse synth trumpet / C3-C6	Brightness	Table morph	Resonance	Softness
+72	EDM Titan Fanfare	Brass	edm,brass,original	Prism Forge	Low octave festival brass / C2-C5	Brightness	Table morph	Resonance	Softness
+73	EDM Clean Sub	Bass	edm,bass,original	Prism Forge	Focused sine sub / C1-C3	Brightness	Table morph	Resonance	Softness
+74	EDM Tunnel Reese	Bass	edm,bass,original	Prism Forge	Moving detuned Reese / C1-C3	Brightness	Table morph	Resonance	Softness
+75	EDM Rubber Pluck	Bass	edm,bass,original	Prism Forge	Bouncy house pluck / C1-C3	Brightness	Table morph	Resonance	Softness
+76	EDM Grid Wobble	Bass	edm,bass,original	Prism Forge	Tempo-synced filter wobble / C1-C3	Brightness	Table morph	Resonance	Softness
+77	EDM Acid Needle	Bass	edm,bass,original	Prism Forge	Resonant acid stab / C1-C4	Brightness	Table morph	Resonance	Softness
+78	EDM Digital Bite	Bass	edm,bass,original	Prism Forge	Phase-modulated bass / C1-C3	Brightness	Table morph	Resonance	Softness
+79	EDM Offbeat Engine	Bass	edm,bass,original	Prism Forge	Short offbeat saw bass / C1-C3	Brightness	Table morph	Resonance	Softness
+80	EDM Hollow Roller	Bass	edm,bass,original	Prism Forge	Hollow pulse rolling bass / C1-C3	Brightness	Table morph	Resonance	Softness
+81	EDM Mainstage Sky	Leads	edm,leads,original	Prism Forge	Wide festival supersaw / C4-C6	Brightness	Table morph	Resonance	Softness
+82	EDM Neon Glide	Leads	edm,leads,original	Prism Forge	Mono legato lead / C3-C6	Brightness	Table morph	Resonance	Softness
+83	EDM Rave Siren	Leads	edm,leads,original	Prism Forge	Octave sync rave lead / C3-C6	Brightness	Table morph	Resonance	Softness
+84	EDM Arcade Hook	Leads	edm,leads,original	Prism Forge	Focused square hook / C4-C7	Brightness	Table morph	Resonance	Softness
+85	EDM Prism Bell	Leads	edm,leads,original	Prism Forge	Metallic melodic bell lead / C4-C7	Brightness	Table morph	Resonance	Softness
+86	EDM Laser Ribbon	Leads	edm,leads,original	Prism Forge	Hard-sync expressive lead / C3-C6	Brightness	Table morph	Resonance	Softness
+87	EDM Trance Spark	Leads	edm,leads,original	Prism Forge	Bright echoed trance pluck / C4-C7	Brightness	Table morph	Resonance	Softness
+88	EDM Octane Octaves	Leads	edm,leads,original	Prism Forge	Layered octave anthem / C3-C6	Brightness	Table morph	Resonance	Softness
+89	EDM Afterglow	Pads	edm,pads,original	Prism Forge	Wide slow supersaw pad / C2-C5	Brightness	Table morph	Resonance	Softness
+90	EDM Midnight Velvet	Pads	edm,pads,original	Prism Forge	Dark lowpassed pad / C2-C5	Brightness	Table morph	Resonance	Softness
+91	EDM Cloud Halo	Pads	edm,pads,original	Prism Forge	Airy highpassed ensemble / C3-C6	Brightness	Table morph	Resonance	Softness
+92	EDM Pulse Horizon	Pads	edm,pads,original	Prism Forge	Synced filter pulse pad / C2-C5	Brightness	Table morph	Resonance	Softness
+93	EDM Starlight Octave	Pads	edm,pads,original	Prism Forge	Soft upper-octave shimmer / C2-C5	Brightness	Table morph	Resonance	Softness
+94	EDM Glass Tide	Pads	edm,pads,original	Prism Forge	Slow morphing glass pad / C3-C6	Brightness	Table morph	Resonance	Softness
+95	EDM Warm Orbit	Pads	edm,pads,original	Prism Forge	Detuned warm moving pad / C2-C5	Brightness	Table morph	Resonance	Softness
+96	EDM Open Fifth	Pads	edm,pads,original	Prism Forge	Open-fifth cinematic pad / C2-C5	Brightness	Table morph	Resonance	Softness
+97	EDM Ignition Riser	SFX	edm,sfx,original	Prism Forge	Hold one note for a four-second rise / C3-C5	Brightness	Table morph	Resonance	Softness
+98	EDM Gravity Fall	SFX	edm,sfx,original	Prism Forge	Descending noise downlifter / C3-C5	Brightness	Table morph	Resonance	Softness
+99	EDM Drop Impact	SFX	edm,sfx,original	Prism Forge	Low tonal and noise impact / C2-C4	Brightness	Table morph	Resonance	Softness
+100	EDM Laser Zip	SFX	edm,sfx,original	Prism Forge	Short falling laser / C4-C6	Brightness	Table morph	Resonance	Softness
+101	EDM Reactor Drone	SFX	edm,sfx,original	Prism Forge	Detuned sync machine drone / C2-C4	Brightness	Table morph	Resonance	Softness
+102	EDM Resonance Sweep	SFX	edm,sfx,original	Prism Forge	Moving resonant noise band / C3-C5	Brightness	Table morph	Resonance	Softness
+103	EDM Whiteout Lift	SFX	edm,sfx,original	Prism Forge	Long airy build-up / hold C3-C5	Brightness	Table morph	Resonance	Softness
+104	EDM Metal Shatter	SFX	edm,sfx,original	Prism Forge	Inharmonic metallic hit / C3-C6	Brightness	Table morph	Resonance	Softness
+105	EDM Minor Voltage	Chords	edm,chords,original	Prism Forge	One-note minor triad / C2-C5	Brightness	Table morph	Resonance	Softness
+106	EDM Major Glow	Chords	edm,chords,original	Prism Forge	One-note major triad / C2-C5	Brightness	Table morph	Resonance	Softness
+107	EDM Suspended Neon	Chords	edm,chords,original	Prism Forge	One-note sus2 chord / C2-C5	Brightness	Table morph	Resonance	Softness
+108	EDM Fourth Dimension	Chords	edm,chords,original	Prism Forge	One-note sus4 chord / C2-C5	Brightness	Table morph	Resonance	Softness
+109	EDM Power Grid	Chords	edm,chords,original	Prism Forge	One-note power fifth and octave / C2-C5	Brightness	Table morph	Resonance	Softness
+110	EDM Minor Seven	Chords	edm,chords,original	Prism Forge	One-note minor seventh shell, no fifth / C2-C5	Brightness	Table morph	Resonance	Softness
+111	EDM Major Seven	Chords	edm,chords,original	Prism Forge	One-note major seventh shell, no fifth / C2-C5	Brightness	Table morph	Resonance	Softness
+112	EDM Diminished Flash	Chords	edm,chords,original	Prism Forge	One-note diminished triad / C2-C5	Brightness	Table morph	Resonance	Softness

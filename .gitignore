@@ -1,0 +1,10 @@
+build/
+dist/
+Backups/
+ThirdParty/
+renders/
+Content/Factory Presets/
+.DS_Store
+__pycache__/
+*.pyc
+*.bak

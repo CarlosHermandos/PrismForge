@@ -1,0 +1,552 @@
+id	name	unit	minimum	maximum	default	skew	step
+timbre	Table position		0	1	0.6	1	0
+attack	Attack	s	0.001	5	0.01	0.3	0
+decay	Decay	s	0.001	5	0.2	0.3	0
+sustain	Sustain		0	1	0.7	1	0
+release	Release	s	0.001	10	0.3	0.3	0
+cutoff	Cutoff	Hz	20	20000	8000	0.25	0
+resonance	Resonance		0	1	0.15	1	0
+gain	Master		0	1	0.5	1	0
+osc1_level	Osc 1 Level		0	1	1	1	0
+osc1_pitch	Osc 1 Semitones	st	-36	36	0	1	1
+osc1_fine	Osc 1 Fine	ct	-100	100	0	1	0
+osc1_pan	Osc 1 Pan		-1	1	0	1	0
+osc1_unison	Osc 1 Unison		1	7	1	1	1
+osc1_detune	Osc 1 Detune	ct	0	70	12	1	0
+osc1_spread	Osc 1 Spread		0	1	0.8	1	0
+osc1_phase	Osc 1 Phase		0	1	0	1	0
+osc1_random	Osc 1 Phase random		0	1	0	1	0
+osc1_warp	Osc 1 Warp type		0	3	0	1	1
+osc1_warpAmount	Osc 1 Warp amount		0	1	0	1	0
+osc1_interaction	Osc 1 Interaction		0	2	0	1	1
+osc1_interactionAmount	Osc 1 Interaction depth		0	1	0	1	0
+osc1_route	Osc 1 Filter routing		0	3	0	1	1
+osc2_table	Osc 2 table		0	1	0.6	1	0
+osc2_level	Osc 2 Level		0	1	0	1	0
+osc2_pitch	Osc 2 Semitones	st	-36	36	0	1	1
+osc2_fine	Osc 2 Fine	ct	-100	100	0	1	0
+osc2_pan	Osc 2 Pan		-1	1	0	1	0
+osc2_unison	Osc 2 Unison		1	7	1	1	1
+osc2_detune	Osc 2 Detune	ct	0	70	12	1	0
+osc2_spread	Osc 2 Spread		0	1	0.8	1	0
+osc2_phase	Osc 2 Phase		0	1	0	1	0
+osc2_random	Osc 2 Phase random		0	1	0	1	0
+osc2_warp	Osc 2 Warp type		0	3	0	1	1
+osc2_warpAmount	Osc 2 Warp amount		0	1	0	1	0
+osc2_interaction	Osc 2 Interaction		0	2	0	1	1
+osc2_interactionAmount	Osc 2 Interaction depth		0	1	0	1	0
+osc2_route	Osc 2 Filter routing		0	3	0	1	1
+osc3_table	Osc 3 table		0	1	0.6	1	0
+osc3_level	Osc 3 Level		0	1	0	1	0
+osc3_pitch	Osc 3 Semitones	st	-36	36	0	1	1
+osc3_fine	Osc 3 Fine	ct	-100	100	0	1	0
+osc3_pan	Osc 3 Pan		-1	1	0	1	0
+osc3_unison	Osc 3 Unison		1	7	1	1	1
+osc3_detune	Osc 3 Detune	ct	0	70	12	1	0
+osc3_spread	Osc 3 Spread		0	1	0.8	1	0
+osc3_phase	Osc 3 Phase		0	1	0	1	0
+osc3_random	Osc 3 Phase random		0	1	0	1	0
+osc3_warp	Osc 3 Warp type		0	3	0	1	1
+osc3_warpAmount	Osc 3 Warp amount		0	1	0	1	0
+osc3_interaction	Osc 3 Interaction		0	2	0	1	1
+osc3_interactionAmount	Osc 3 Interaction depth		0	1	0	1	0
+osc3_route	Osc 3 Filter routing		0	3	0	1	1
+sub_level	Sub level		0	1	0	1	0
+sub_wave	Sub waveform		0	2	0	1	1
+sub_octave	Sub octave	oct	-3	0	-1	1	1
+sub_pan	Sub pan		-1	1	0	1	0
+noise_level	Noise level		0	1	0	1	0
+noise_colour	Noise colour		0	1	0.5	1	0
+noise_pan	Noise pan		-1	1	0	1	0
+filter1_type	Filter 1 type		0	3	0	1	1
+filter1_drive	Filter 1 drive	dB	0	24	0	1	0
+filter1_key	Filter 1 tracking		0	1	0	1	0
+filter2_cutoff	Filter 2 cutoff	Hz	20	20000	8000	0.25	0
+filter2_res	Filter 2 resonance		0	1	0.15	1	0
+filter2_type	Filter 2 type		0	3	0	1	1
+filter2_drive	Filter 2 drive	dB	0	24	0	1	0
+filter2_key	Filter 2 tracking		0	1	0	1	0
+filter2_enabled	Filter 2 enabled		0	1	0	1	1
+filter_path	Filter path		0	1	0	1	1
+filter_mix	Filter blend		0	1	0	1	0
+polyphony	Polyphony		1	16	16	1	1
+mono	Mono		0	1	0	1	1
+legato	Legato		0	1	1	1	1
+retrigger	Retrigger		0	1	0	1	1
+glide	Portamento	s	0	2	0	0.4	0
+seed	Random seed		1	65535	1979	1	1
+env2_attack	Env 2 Attack	s	0.001	5	0.02	0.3	0
+env2_decay	Env 2 Decay	s	0.001	5	0.4	0.3	0
+env2_sustain	Env 2 Sustain		0	1	0.5	1	0
+env2_release	Env 2 Release	s	0.001	10	0.5	0.3	0
+env3_attack	Env 3 Attack	s	0.001	5	0.02	0.3	0
+env3_decay	Env 3 Decay	s	0.001	5	0.4	0.3	0
+env3_sustain	Env 3 Sustain		0	1	0.5	1	0
+env3_release	Env 3 Release	s	0.001	10	0.5	0.3	0
+env4_attack	Env 4 Attack	s	0.001	5	0.02	0.3	0
+env4_decay	Env 4 Decay	s	0.001	5	0.4	0.3	0
+env4_sustain	Env 4 Sustain		0	1	0.5	1	0
+env4_release	Env 4 Release	s	0.001	10	0.5	0.3	0
+lfo1_rate	LFO 1 Rate	Hz	0.02	40	1	0.3	0
+lfo1_shape	LFO 1 Shape		0	5	0	1	1
+lfo1_sync	LFO 1 Sync		0	1	0	1	1
+lfo1_division	LFO 1 Division		0	8	4	1	1
+lfo1_retrigger	LFO 1 Retrigger		0	1	1	1	1
+lfo1_phase	LFO 1 Phase		0	1	0	1	0
+lfo1_oneShot	LFO 1 One shot		0	1	0	1	1
+lfo1_unipolar	LFO 1 Unipolar		0	1	0	1	1
+lfo2_rate	LFO 2 Rate	Hz	0.02	40	1	0.3	0
+lfo2_shape	LFO 2 Shape		0	5	0	1	1
+lfo2_sync	LFO 2 Sync		0	1	0	1	1
+lfo2_division	LFO 2 Division		0	8	4	1	1
+lfo2_retrigger	LFO 2 Retrigger		0	1	1	1	1
+lfo2_phase	LFO 2 Phase		0	1	0	1	0
+lfo2_oneShot	LFO 2 One shot		0	1	0	1	1
+lfo2_unipolar	LFO 2 Unipolar		0	1	0	1	1
+lfo3_rate	LFO 3 Rate	Hz	0.02	40	1	0.3	0
+lfo3_shape	LFO 3 Shape		0	5	0	1	1
+lfo3_sync	LFO 3 Sync		0	1	0	1	1
+lfo3_division	LFO 3 Division		0	8	4	1	1
+lfo3_retrigger	LFO 3 Retrigger		0	1	1	1	1
+lfo3_phase	LFO 3 Phase		0	1	0	1	0
+lfo3_oneShot	LFO 3 One shot		0	1	0	1	1
+lfo3_unipolar	LFO 3 Unipolar		0	1	0	1	1
+lfo4_rate	LFO 4 Rate	Hz	0.02	40	1	0.3	0
+lfo4_shape	LFO 4 Shape		0	5	0	1	1
+lfo4_sync	LFO 4 Sync		0	1	0	1	1
+lfo4_division	LFO 4 Division		0	8	4	1	1
+lfo4_retrigger	LFO 4 Retrigger		0	1	1	1	1
+lfo4_phase	LFO 4 Phase		0	1	0	1	0
+lfo4_oneShot	LFO 4 One shot		0	1	0	1	1
+lfo4_unipolar	LFO 4 Unipolar		0	1	0	1	1
+lfo5_rate	LFO 5 Rate	Hz	0.02	40	1	0.3	0
+lfo5_shape	LFO 5 Shape		0	5	0	1	1
+lfo5_sync	LFO 5 Sync		0	1	0	1	1
+lfo5_division	LFO 5 Division		0	8	4	1	1
+lfo5_retrigger	LFO 5 Retrigger		0	1	1	1	1
+lfo5_phase	LFO 5 Phase		0	1	0	1	0
+lfo5_oneShot	LFO 5 One shot		0	1	0	1	1
+lfo5_unipolar	LFO 5 Unipolar		0	1	0	1	1
+lfo6_rate	LFO 6 Rate	Hz	0.02	40	1	0.3	0
+lfo6_shape	LFO 6 Shape		0	5	0	1	1
+lfo6_sync	LFO 6 Sync		0	1	0	1	1
+lfo6_division	LFO 6 Division		0	8	4	1	1
+lfo6_retrigger	LFO 6 Retrigger		0	1	1	1	1
+lfo6_phase	LFO 6 Phase		0	1	0	1	0
+lfo6_oneShot	LFO 6 One shot		0	1	0	1	1
+lfo6_unipolar	LFO 6 Unipolar		0	1	0	1	1
+lfo7_rate	LFO 7 Rate	Hz	0.02	40	1	0.3	0
+lfo7_shape	LFO 7 Shape		0	5	0	1	1
+lfo7_sync	LFO 7 Sync		0	1	0	1	1
+lfo7_division	LFO 7 Division		0	8	4	1	1
+lfo7_retrigger	LFO 7 Retrigger		0	1	1	1	1
+lfo7_phase	LFO 7 Phase		0	1	0	1	0
+lfo7_oneShot	LFO 7 One shot		0	1	0	1	1
+lfo7_unipolar	LFO 7 Unipolar		0	1	0	1	1
+lfo8_rate	LFO 8 Rate	Hz	0.02	40	1	0.3	0
+lfo8_shape	LFO 8 Shape		0	5	0	1	1
+lfo8_sync	LFO 8 Sync		0	1	0	1	1
+lfo8_division	LFO 8 Division		0	8	4	1	1
+lfo8_retrigger	LFO 8 Retrigger		0	1	1	1	1
+lfo8_phase	LFO 8 Phase		0	1	0	1	0
+lfo8_oneShot	LFO 8 One shot		0	1	0	1	1
+lfo8_unipolar	LFO 8 Unipolar		0	1	0	1	1
+lfo9_rate	LFO 9 Rate	Hz	0.02	40	1	0.3	0
+lfo9_shape	LFO 9 Shape		0	5	0	1	1
+lfo9_sync	LFO 9 Sync		0	1	0	1	1
+lfo9_division	LFO 9 Division		0	8	4	1	1
+lfo9_retrigger	LFO 9 Retrigger		0	1	1	1	1
+lfo9_phase	LFO 9 Phase		0	1	0	1	0
+lfo9_oneShot	LFO 9 One shot		0	1	0	1	1
+lfo9_unipolar	LFO 9 Unipolar		0	1	0	1	1
+lfo10_rate	LFO 10 Rate	Hz	0.02	40	1	0.3	0
+lfo10_shape	LFO 10 Shape		0	5	0	1	1
+lfo10_sync	LFO 10 Sync		0	1	0	1	1
+lfo10_division	LFO 10 Division		0	8	4	1	1
+lfo10_retrigger	LFO 10 Retrigger		0	1	1	1	1
+lfo10_phase	LFO 10 Phase		0	1	0	1	0
+lfo10_oneShot	LFO 10 One shot		0	1	0	1	1
+lfo10_unipolar	LFO 10 Unipolar		0	1	0	1	1
+macro1	Macro 1		0	1	0	1	0
+macro2	Macro 2		0	1	0	1	0
+macro3	Macro 3		0	1	0	1	0
+macro4	Macro 4		0	1	0	1	0
+macro5	Macro 5		0	1	0	1	0
+macro6	Macro 6		0	1	0	1	0
+macro7	Macro 7		0	1	0	1	0
+macro8	Macro 8		0	1	0	1	0
+mod1_source	Route 1 Source		0	29	0	1	1
+mod1_destination	Route 1 Destination		0	21	0	1	1
+mod1_amount	Route 1 Amount		-1	1	0	1	0
+mod1_polarity	Route 1 Unipolar source		0	1	0	1	1
+mod1_bypass	Route 1 Bypass		0	1	0	1	1
+mod1_curve	Route 1 Curve		-1	1	0	1	0
+mod2_source	Route 2 Source		0	29	0	1	1
+mod2_destination	Route 2 Destination		0	21	0	1	1
+mod2_amount	Route 2 Amount		-1	1	0	1	0
+mod2_polarity	Route 2 Unipolar source		0	1	0	1	1
+mod2_bypass	Route 2 Bypass		0	1	0	1	1
+mod2_curve	Route 2 Curve		-1	1	0	1	0
+mod3_source	Route 3 Source		0	29	0	1	1
+mod3_destination	Route 3 Destination		0	21	0	1	1
+mod3_amount	Route 3 Amount		-1	1	0	1	0
+mod3_polarity	Route 3 Unipolar source		0	1	0	1	1
+mod3_bypass	Route 3 Bypass		0	1	0	1	1
+mod3_curve	Route 3 Curve		-1	1	0	1	0
+mod4_source	Route 4 Source		0	29	0	1	1
+mod4_destination	Route 4 Destination		0	21	0	1	1
+mod4_amount	Route 4 Amount		-1	1	0	1	0
+mod4_polarity	Route 4 Unipolar source		0	1	0	1	1
+mod4_bypass	Route 4 Bypass		0	1	0	1	1
+mod4_curve	Route 4 Curve		-1	1	0	1	0
+mod5_source	Route 5 Source		0	29	0	1	1
+mod5_destination	Route 5 Destination		0	21	0	1	1
+mod5_amount	Route 5 Amount		-1	1	0	1	0
+mod5_polarity	Route 5 Unipolar source		0	1	0	1	1
+mod5_bypass	Route 5 Bypass		0	1	0	1	1
+mod5_curve	Route 5 Curve		-1	1	0	1	0
+mod6_source	Route 6 Source		0	29	0	1	1
+mod6_destination	Route 6 Destination		0	21	0	1	1
+mod6_amount	Route 6 Amount		-1	1	0	1	0
+mod6_polarity	Route 6 Unipolar source		0	1	0	1	1
+mod6_bypass	Route 6 Bypass		0	1	0	1	1
+mod6_curve	Route 6 Curve		-1	1	0	1	0
+mod7_source	Route 7 Source		0	29	0	1	1
+mod7_destination	Route 7 Destination		0	21	0	1	1
+mod7_amount	Route 7 Amount		-1	1	0	1	0
+mod7_polarity	Route 7 Unipolar source		0	1	0	1	1
+mod7_bypass	Route 7 Bypass		0	1	0	1	1
+mod7_curve	Route 7 Curve		-1	1	0	1	0
+mod8_source	Route 8 Source		0	29	0	1	1
+mod8_destination	Route 8 Destination		0	21	0	1	1
+mod8_amount	Route 8 Amount		-1	1	0	1	0
+mod8_polarity	Route 8 Unipolar source		0	1	0	1	1
+mod8_bypass	Route 8 Bypass		0	1	0	1	1
+mod8_curve	Route 8 Curve		-1	1	0	1	0
+mod9_source	Route 9 Source		0	29	0	1	1
+mod9_destination	Route 9 Destination		0	21	0	1	1
+mod9_amount	Route 9 Amount		-1	1	0	1	0
+mod9_polarity	Route 9 Unipolar source		0	1	0	1	1
+mod9_bypass	Route 9 Bypass		0	1	0	1	1
+mod9_curve	Route 9 Curve		-1	1	0	1	0
+mod10_source	Route 10 Source		0	29	0	1	1
+mod10_destination	Route 10 Destination		0	21	0	1	1
+mod10_amount	Route 10 Amount		-1	1	0	1	0
+mod10_polarity	Route 10 Unipolar source		0	1	0	1	1
+mod10_bypass	Route 10 Bypass		0	1	0	1	1
+mod10_curve	Route 10 Curve		-1	1	0	1	0
+mod11_source	Route 11 Source		0	29	0	1	1
+mod11_destination	Route 11 Destination		0	21	0	1	1
+mod11_amount	Route 11 Amount		-1	1	0	1	0
+mod11_polarity	Route 11 Unipolar source		0	1	0	1	1
+mod11_bypass	Route 11 Bypass		0	1	0	1	1
+mod11_curve	Route 11 Curve		-1	1	0	1	0
+mod12_source	Route 12 Source		0	29	0	1	1
+mod12_destination	Route 12 Destination		0	21	0	1	1
+mod12_amount	Route 12 Amount		-1	1	0	1	0
+mod12_polarity	Route 12 Unipolar source		0	1	0	1	1
+mod12_bypass	Route 12 Bypass		0	1	0	1	1
+mod12_curve	Route 12 Curve		-1	1	0	1	0
+mod13_source	Route 13 Source		0	29	0	1	1
+mod13_destination	Route 13 Destination		0	21	0	1	1
+mod13_amount	Route 13 Amount		-1	1	0	1	0
+mod13_polarity	Route 13 Unipolar source		0	1	0	1	1
+mod13_bypass	Route 13 Bypass		0	1	0	1	1
+mod13_curve	Route 13 Curve		-1	1	0	1	0
+mod14_source	Route 14 Source		0	29	0	1	1
+mod14_destination	Route 14 Destination		0	21	0	1	1
+mod14_amount	Route 14 Amount		-1	1	0	1	0
+mod14_polarity	Route 14 Unipolar source		0	1	0	1	1
+mod14_bypass	Route 14 Bypass		0	1	0	1	1
+mod14_curve	Route 14 Curve		-1	1	0	1	0
+mod15_source	Route 15 Source		0	29	0	1	1
+mod15_destination	Route 15 Destination		0	21	0	1	1
+mod15_amount	Route 15 Amount		-1	1	0	1	0
+mod15_polarity	Route 15 Unipolar source		0	1	0	1	1
+mod15_bypass	Route 15 Bypass		0	1	0	1	1
+mod15_curve	Route 15 Curve		-1	1	0	1	0
+mod16_source	Route 16 Source		0	29	0	1	1
+mod16_destination	Route 16 Destination		0	21	0	1	1
+mod16_amount	Route 16 Amount		-1	1	0	1	0
+mod16_polarity	Route 16 Unipolar source		0	1	0	1	1
+mod16_bypass	Route 16 Bypass		0	1	0	1	1
+mod16_curve	Route 16 Curve		-1	1	0	1	0
+sat_enabled	sat enabled		0	1	0	1	1
+sat_drive	sat Drive	dB	0	30	6	1	0
+sat_mix	sat Mix		0	1	0.5	1	0
+chorus_enabled	chorus enabled		0	1	0	1	1
+chorus_rate	chorus Rate	Hz	0.05	5	0.3	1	0
+chorus_depth	chorus Depth		0	1	0.4	1	0
+chorus_mix	chorus Mix		0	1	0.3	1	0
+phaser_enabled	phaser enabled		0	1	0	1	1
+phaser_rate	phaser Rate	Hz	0.05	5	0.2	1	0
+phaser_depth	phaser Depth		0	1	0.5	1	0
+phaser_mix	phaser Mix		0	1	0.35	1	0
+delay_enabled	delay enabled		0	1	0	1	1
+delay_time	delay Time	s	0.01	2	0.3	1	0
+delay_feedback	delay Feedback		0	0.92	0.35	1	0
+delay_mix	delay Mix		0	1	0.25	1	0
+delay_sync	delay Sync		0	1	0	1	1
+delay_division	delay Division		0	8	4	1	1
+reverb_enabled	reverb enabled		0	1	0	1	1
+reverb_size	reverb Size		0	1	0.6	1	0
+reverb_damping	reverb Damping		0	1	0.5	1	0
+reverb_mix	reverb Mix		0	1	0.25	1	0
+eq_enabled	eq enabled		0	1	0	1	1
+eq_low	eq Low	dB	-18	18	0	1	0
+eq_mid	eq Mid	dB	-18	18	0	1	0
+eq_high	eq High	dB	-18	18	0	1	0
+eq_frequency	eq Mid frequency	Hz	200	6000	1200	0.4	0
+comp_enabled	comp enabled		0	1	0	1	1
+comp_threshold	comp Threshold	dB	-48	0	-18	1	0
+comp_ratio	comp Ratio		1	16	4	1	0
+comp_attack	comp Attack	ms	0.1	100	10	0.4	0
+comp_release	comp Release	ms	10	1000	150	0.4	0
+comp_mix	comp Mix		0	1	1	1	0
+limiter_enabled	limiter enabled		0	1	0	1	1
+limiter_ceiling	limiter Ceiling	dB	-12	0	-1	1	0
+fx_slot0	FX slot 1		0	7	0	1	1
+fx_slot1	FX slot 2		0	7	1	1	1
+fx_slot2	FX slot 3		0	7	2	1	1
+fx_slot3	FX slot 4		0	7	3	1	1
+fx_slot4	FX slot 5		0	7	4	1	1
+fx_slot5	FX slot 6		0	7	5	1	1
+fx_slot6	FX slot 7		0	7	6	1	1
+fx_slot7	FX slot 8		0	7	7	1	1
+hybrid1_mode	Osc 1 Engine		0	4	0	1	1
+hybrid1_root	Osc 1 Root note	MIDI	0	127	60	1	1
+hybrid1_start	Osc 1 Start		0	1	0	1	0
+hybrid1_end	Osc 1 End		0	1	1	1	0
+hybrid1_reverse	Osc 1 Reverse		0	1	0	1	1
+hybrid1_loop	Osc 1 Loop		0	1	0	1	1
+hybrid1_crossfade	Osc 1 Loop crossfade	s	0	0.2	0.01	1	0
+hybrid1_sampleGain	Osc 1 Sample gain		0	2	1	1	0
+hybrid1_grainPosition	Osc 1 Grain position		0	1	0.25	1	0
+hybrid1_grainSize	Osc 1 Grain size	s	0.005	1	0.1	0.4	0
+hybrid1_grainDensity	Osc 1 Grain density	/s	1	100	20	1	0
+hybrid1_grainPitch	Osc 1 Grain pitch	st	-24	24	0	1	0
+hybrid1_grainSpread	Osc 1 Grain spread		0	1	0.5	1	0
+hybrid1_grainJitter	Osc 1 Position jitter		0	1	0.1	1	0
+hybrid1_grainMotion	Osc 1 Source motion	x	-2	2	1	1	0
+hybrid1_spectralPosition	Osc 1 Spectral time		0	1	0	1	0
+hybrid1_spectralTilt	Osc 1 Spectral tilt		-1	1	0	1	0
+hybrid1_spectralHarmonics	Osc 1 Harmonics		1	32	32	1	1
+hybrid2_mode	Osc 2 Engine		0	4	0	1	1
+hybrid2_root	Osc 2 Root note	MIDI	0	127	60	1	1
+hybrid2_start	Osc 2 Start		0	1	0	1	0
+hybrid2_end	Osc 2 End		0	1	1	1	0
+hybrid2_reverse	Osc 2 Reverse		0	1	0	1	1
+hybrid2_loop	Osc 2 Loop		0	1	0	1	1
+hybrid2_crossfade	Osc 2 Loop crossfade	s	0	0.2	0.01	1	0
+hybrid2_sampleGain	Osc 2 Sample gain		0	2	1	1	0
+hybrid2_grainPosition	Osc 2 Grain position		0	1	0.25	1	0
+hybrid2_grainSize	Osc 2 Grain size	s	0.005	1	0.1	0.4	0
+hybrid2_grainDensity	Osc 2 Grain density	/s	1	100	20	1	0
+hybrid2_grainPitch	Osc 2 Grain pitch	st	-24	24	0	1	0
+hybrid2_grainSpread	Osc 2 Grain spread		0	1	0.5	1	0
+hybrid2_grainJitter	Osc 2 Position jitter		0	1	0.1	1	0
+hybrid2_grainMotion	Osc 2 Source motion	x	-2	2	1	1	0
+hybrid2_spectralPosition	Osc 2 Spectral time		0	1	0	1	0
+hybrid2_spectralTilt	Osc 2 Spectral tilt		-1	1	0	1	0
+hybrid2_spectralHarmonics	Osc 2 Harmonics		1	32	32	1	1
+hybrid3_mode	Osc 3 Engine		0	4	0	1	1
+hybrid3_root	Osc 3 Root note	MIDI	0	127	60	1	1
+hybrid3_start	Osc 3 Start		0	1	0	1	0
+hybrid3_end	Osc 3 End		0	1	1	1	0
+hybrid3_reverse	Osc 3 Reverse		0	1	0	1	1
+hybrid3_loop	Osc 3 Loop		0	1	0	1	1
+hybrid3_crossfade	Osc 3 Loop crossfade	s	0	0.2	0.01	1	0
+hybrid3_sampleGain	Osc 3 Sample gain		0	2	1	1	0
+hybrid3_grainPosition	Osc 3 Grain position		0	1	0.25	1	0
+hybrid3_grainSize	Osc 3 Grain size	s	0.005	1	0.1	0.4	0
+hybrid3_grainDensity	Osc 3 Grain density	/s	1	100	20	1	0
+hybrid3_grainPitch	Osc 3 Grain pitch	st	-24	24	0	1	0
+hybrid3_grainSpread	Osc 3 Grain spread		0	1	0.5	1	0
+hybrid3_grainJitter	Osc 3 Position jitter		0	1	0.1	1	0
+hybrid3_grainMotion	Osc 3 Source motion	x	-2	2	1	1	0
+hybrid3_spectralPosition	Osc 3 Spectral time		0	1	0	1	0
+hybrid3_spectralTilt	Osc 3 Spectral tilt		-1	1	0	1	0
+hybrid3_spectralHarmonics	Osc 3 Harmonics		1	32	32	1	1
+sub_route	Sub routing		0	3	0	1	1
+noise_route	Noise routing		0	3	0	1	1
+mpe	MPE		0	1	0	1	1
+mpeRange	MPE bend range	st	1	96	48	1	1
+internalTempo	Internal tempo	BPM	20	300	120	1	0
+arp_enabled	Arpeggiator		0	1	0	1	1
+arp_order	Arp order		0	4	0	1	1
+arp_octaves	Octaves		1	4	1	1	1
+arp_division	Arp division		0	8	3	1	1
+arp_gate	Arp gate		0.05	1	0.6	1	0
+arp_swing	Arp swing		0	0.45	0	1	0
+arp_latch	Arp latch		0	1	0	1	1
+seq_enabled	Sequencer		0	1	0	1	1
+seq_length	Pattern length		1	16	16	1	1
+seq_division	Step division		0	8	2	1	1
+seq_swing	Step swing		0	0.45	0	1	0
+seq_transpose	Pattern transpose	st	-24	24	0	1	1
+seq_latch	Pattern latch		0	1	0	1	1
+step1_note	Step 1 note	st	-24	24	0	1	1
+step1_velocity	Step 1 velocity		0	127	100	1	1
+step1_gate	Step 1 gate		0	1	0.6	1	0
+step1_probability	Step 1 probability		0	1	1	1	0
+step2_note	Step 2 note	st	-24	24	7	1	1
+step2_velocity	Step 2 velocity		0	127	100	1	1
+step2_gate	Step 2 gate		0	1	0.6	1	0
+step2_probability	Step 2 probability		0	1	1	1	0
+step3_note	Step 3 note	st	-24	24	12	1	1
+step3_velocity	Step 3 velocity		0	127	100	1	1
+step3_gate	Step 3 gate		0	1	0.6	1	0
+step3_probability	Step 3 probability		0	1	1	1	0
+step4_note	Step 4 note	st	-24	24	3	1	1
+step4_velocity	Step 4 velocity		0	127	100	1	1
+step4_gate	Step 4 gate		0	1	0.6	1	0
+step4_probability	Step 4 probability		0	1	1	1	0
+step5_note	Step 5 note	st	-24	24	0	1	1
+step5_velocity	Step 5 velocity		0	127	100	1	1
+step5_gate	Step 5 gate		0	1	0.6	1	0
+step5_probability	Step 5 probability		0	1	1	1	0
+step6_note	Step 6 note	st	-24	24	10	1	1
+step6_velocity	Step 6 velocity		0	127	100	1	1
+step6_gate	Step 6 gate		0	1	0.6	1	0
+step6_probability	Step 6 probability		0	1	1	1	0
+step7_note	Step 7 note	st	-24	24	7	1	1
+step7_velocity	Step 7 velocity		0	127	100	1	1
+step7_gate	Step 7 gate		0	1	0.6	1	0
+step7_probability	Step 7 probability		0	1	1	1	0
+step8_note	Step 8 note	st	-24	24	5	1	1
+step8_velocity	Step 8 velocity		0	127	100	1	1
+step8_gate	Step 8 gate		0	1	0.6	1	0
+step8_probability	Step 8 probability		0	1	1	1	0
+step9_note	Step 9 note	st	-24	24	0	1	1
+step9_velocity	Step 9 velocity		0	127	100	1	1
+step9_gate	Step 9 gate		0	1	0.6	1	0
+step9_probability	Step 9 probability		0	1	1	1	0
+step10_note	Step 10 note	st	-24	24	7	1	1
+step10_velocity	Step 10 velocity		0	127	100	1	1
+step10_gate	Step 10 gate		0	1	0.6	1	0
+step10_probability	Step 10 probability		0	1	1	1	0
+step11_note	Step 11 note	st	-24	24	12	1	1
+step11_velocity	Step 11 velocity		0	127	100	1	1
+step11_gate	Step 11 gate		0	1	0.6	1	0
+step11_probability	Step 11 probability		0	1	1	1	0
+step12_note	Step 12 note	st	-24	24	3	1	1
+step12_velocity	Step 12 velocity		0	127	100	1	1
+step12_gate	Step 12 gate		0	1	0.6	1	0
+step12_probability	Step 12 probability		0	1	1	1	0
+step13_note	Step 13 note	st	-24	24	0	1	1
+step13_velocity	Step 13 velocity		0	127	100	1	1
+step13_gate	Step 13 gate		0	1	0.6	1	0
+step13_probability	Step 13 probability		0	1	1	1	0
+step14_note	Step 14 note	st	-24	24	10	1	1
+step14_velocity	Step 14 velocity		0	127	100	1	1
+step14_gate	Step 14 gate		0	1	0.6	1	0
+step14_probability	Step 14 probability		0	1	1	1	0
+step15_note	Step 15 note	st	-24	24	7	1	1
+step15_velocity	Step 15 velocity		0	127	100	1	1
+step15_gate	Step 15 gate		0	1	0.6	1	0
+step15_probability	Step 15 probability		0	1	1	1	0
+step16_note	Step 16 note	st	-24	24	5	1	1
+step16_velocity	Step 16 velocity		0	127	100	1	1
+step16_gate	Step 16 gate		0	1	0.6	1	0
+step16_probability	Step 16 probability		0	1	1	1	0
+env1_attackCurve	Env 1 attack curve		-1	1	0	1	0
+env1_decayCurve	Env 1 decay curve		-1	1	0	1	0
+env1_releaseCurve	Env 1 release curve		-1	1	0	1	0
+env2_attackCurve	Env 2 attack curve		-1	1	0	1	0
+env2_decayCurve	Env 2 decay curve		-1	1	0	1	0
+env2_releaseCurve	Env 2 release curve		-1	1	0	1	0
+env3_attackCurve	Env 3 attack curve		-1	1	0	1	0
+env3_decayCurve	Env 3 decay curve		-1	1	0	1	0
+env3_releaseCurve	Env 3 release curve		-1	1	0	1	0
+env4_attackCurve	Env 4 attack curve		-1	1	0	1	0
+env4_decayCurve	Env 4 decay curve		-1	1	0	1	0
+env4_releaseCurve	Env 4 release curve		-1	1	0	1	0
+lfo1_point1	LFO 1 point 1		-1	1	0	1	0
+lfo1_point2	LFO 1 point 2		-1	1	0.707107	1	0
+lfo1_point3	LFO 1 point 3		-1	1	1	1	0
+lfo1_point4	LFO 1 point 4		-1	1	0.707107	1	0
+lfo1_point5	LFO 1 point 5		-1	1	1.22465e-16	1	0
+lfo1_point6	LFO 1 point 6		-1	1	-0.707107	1	0
+lfo1_point7	LFO 1 point 7		-1	1	-1	1	0
+lfo1_point8	LFO 1 point 8		-1	1	-0.707107	1	0
+lfo2_point1	LFO 2 point 1		-1	1	0	1	0
+lfo2_point2	LFO 2 point 2		-1	1	0.707107	1	0
+lfo2_point3	LFO 2 point 3		-1	1	1	1	0
+lfo2_point4	LFO 2 point 4		-1	1	0.707107	1	0
+lfo2_point5	LFO 2 point 5		-1	1	1.22465e-16	1	0
+lfo2_point6	LFO 2 point 6		-1	1	-0.707107	1	0
+lfo2_point7	LFO 2 point 7		-1	1	-1	1	0
+lfo2_point8	LFO 2 point 8		-1	1	-0.707107	1	0
+lfo3_point1	LFO 3 point 1		-1	1	0	1	0
+lfo3_point2	LFO 3 point 2		-1	1	0.707107	1	0
+lfo3_point3	LFO 3 point 3		-1	1	1	1	0
+lfo3_point4	LFO 3 point 4		-1	1	0.707107	1	0
+lfo3_point5	LFO 3 point 5		-1	1	1.22465e-16	1	0
+lfo3_point6	LFO 3 point 6		-1	1	-0.707107	1	0
+lfo3_point7	LFO 3 point 7		-1	1	-1	1	0
+lfo3_point8	LFO 3 point 8		-1	1	-0.707107	1	0
+lfo4_point1	LFO 4 point 1		-1	1	0	1	0
+lfo4_point2	LFO 4 point 2		-1	1	0.707107	1	0
+lfo4_point3	LFO 4 point 3		-1	1	1	1	0
+lfo4_point4	LFO 4 point 4		-1	1	0.707107	1	0
+lfo4_point5	LFO 4 point 5		-1	1	1.22465e-16	1	0
+lfo4_point6	LFO 4 point 6		-1	1	-0.707107	1	0
+lfo4_point7	LFO 4 point 7		-1	1	-1	1	0
+lfo4_point8	LFO 4 point 8		-1	1	-0.707107	1	0
+lfo5_point1	LFO 5 point 1		-1	1	0	1	0
+lfo5_point2	LFO 5 point 2		-1	1	0.707107	1	0
+lfo5_point3	LFO 5 point 3		-1	1	1	1	0
+lfo5_point4	LFO 5 point 4		-1	1	0.707107	1	0
+lfo5_point5	LFO 5 point 5		-1	1	1.22465e-16	1	0
+lfo5_point6	LFO 5 point 6		-1	1	-0.707107	1	0
+lfo5_point7	LFO 5 point 7		-1	1	-1	1	0
+lfo5_point8	LFO 5 point 8		-1	1	-0.707107	1	0
+lfo6_point1	LFO 6 point 1		-1	1	0	1	0
+lfo6_point2	LFO 6 point 2		-1	1	0.707107	1	0
+lfo6_point3	LFO 6 point 3		-1	1	1	1	0
+lfo6_point4	LFO 6 point 4		-1	1	0.707107	1	0
+lfo6_point5	LFO 6 point 5		-1	1	1.22465e-16	1	0
+lfo6_point6	LFO 6 point 6		-1	1	-0.707107	1	0
+lfo6_point7	LFO 6 point 7		-1	1	-1	1	0
+lfo6_point8	LFO 6 point 8		-1	1	-0.707107	1	0
+lfo7_point1	LFO 7 point 1		-1	1	0	1	0
+lfo7_point2	LFO 7 point 2		-1	1	0.707107	1	0
+lfo7_point3	LFO 7 point 3		-1	1	1	1	0
+lfo7_point4	LFO 7 point 4		-1	1	0.707107	1	0
+lfo7_point5	LFO 7 point 5		-1	1	1.22465e-16	1	0
+lfo7_point6	LFO 7 point 6		-1	1	-0.707107	1	0
+lfo7_point7	LFO 7 point 7		-1	1	-1	1	0
+lfo7_point8	LFO 7 point 8		-1	1	-0.707107	1	0
+lfo8_point1	LFO 8 point 1		-1	1	0	1	0
+lfo8_point2	LFO 8 point 2		-1	1	0.707107	1	0
+lfo8_point3	LFO 8 point 3		-1	1	1	1	0
+lfo8_point4	LFO 8 point 4		-1	1	0.707107	1	0
+lfo8_point5	LFO 8 point 5		-1	1	1.22465e-16	1	0
+lfo8_point6	LFO 8 point 6		-1	1	-0.707107	1	0
+lfo8_point7	LFO 8 point 7		-1	1	-1	1	0
+lfo8_point8	LFO 8 point 8		-1	1	-0.707107	1	0
+lfo9_point1	LFO 9 point 1		-1	1	0	1	0
+lfo9_point2	LFO 9 point 2		-1	1	0.707107	1	0
+lfo9_point3	LFO 9 point 3		-1	1	1	1	0
+lfo9_point4	LFO 9 point 4		-1	1	0.707107	1	0
+lfo9_point5	LFO 9 point 5		-1	1	1.22465e-16	1	0
+lfo9_point6	LFO 9 point 6		-1	1	-0.707107	1	0
+lfo9_point7	LFO 9 point 7		-1	1	-1	1	0
+lfo9_point8	LFO 9 point 8		-1	1	-0.707107	1	0
+lfo10_point1	LFO 10 point 1		-1	1	0	1	0
+lfo10_point2	LFO 10 point 2		-1	1	0.707107	1	0
+lfo10_point3	LFO 10 point 3		-1	1	1	1	0
+lfo10_point4	LFO 10 point 4		-1	1	0.707107	1	0
+lfo10_point5	LFO 10 point 5		-1	1	1.22465e-16	1	0
+lfo10_point6	LFO 10 point 6		-1	1	-0.707107	1	0
+lfo10_point7	LFO 10 point 7		-1	1	-1	1	0
+lfo10_point8	LFO 10 point 8		-1	1	-0.707107	1	0
+osc1_warp2	Osc 1 warp 2		0	3	0	1	1
+osc1_warp2Amount	Osc 1 warp 2 depth		0	1	0	1	0
+osc2_warp2	Osc 2 warp 2		0	3	0	1	1
+osc2_warp2Amount	Osc 2 warp 2 depth		0	1	0	1	0
+osc3_warp2	Osc 3 warp 2		0	3	0	1	1
+osc3_warp2Amount	Osc 3 warp 2 depth		0	1	0	1	0
+hybrid1_oneShot	Osc 1 one shot		0	1	0	1	1
+hybrid2_oneShot	Osc 2 one shot		0	1	0	1	1
+hybrid3_oneShot	Osc 3 one shot		0	1	0	1	1
