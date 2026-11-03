@@ -2,6 +2,8 @@
 
 An open-source hybrid synthesizer for macOS Apple Silicon, built with C++20 and JUCE 9.0.5. AU, VST3 and standalone formats. **Version 0.3.1 — beta.**
 
+[Download macOS 0.3.1](https://github.com/CarlosHermandos/PrismForge/releases/tag/v0.3.1)
+
 ![Categorized preset browser](docs/images/preset-browser.png)
 
 ## Play
